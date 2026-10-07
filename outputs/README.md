@@ -1,10 +1,10 @@
 # Derived V3 audit outputs
 
-This directory is reserved for the machine-readable outputs produced by:
+This directory contains the final machine-readable outputs produced by:
 
 `code/run_nbs_iso25012_audit_v3.py`
 
-Expected files:
+Included files:
 
 - `v3_01_sheet_occurrences.csv`
 - `v3_02_state_sheet_metrics.csv`
@@ -19,4 +19,6 @@ Expected files:
 - `v3_11_issue_register.csv`
 - `v3_12_dimension_summary.csv`
 
-The final manuscript reports results derived from the V3 outputs. Earlier audit-version outputs should not be substituted into the archival release.
+The manuscript reports results from this final V3 output set. Earlier audit-version outputs are not part of the archival reproducibility package.
+
+Key validation totals represented in this package include 84 worksheet occurrences, 518 canonical Voice/Internet state/FCT records, 666 cross-period comparisons, 84 zone reconciliations, and 444 historical state-version comparisons.
