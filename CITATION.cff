@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or reproducibility package, please cite the associated manuscript and the archived Zenodo release."
+title: "Nigeria Telecom Data Quality Audit"
+type: software
+authors:
+  - family-names: "Sowunmi"
+    given-names: "Ibrahim Olaleye"
+repository-code: "https://github.com/olaleso/nigeria-telecom-data-quality-audit"
+url: "https://github.com/olaleso/nigeria-telecom-data-quality-audit"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-07"
+abstract: "Reproducible Python audit of Nigerian public telecommunications workbooks using selected ISO/IEC 25012 data-quality characteristics and a DAMA-DMBOK-informed governance interpretation."
+keywords:
+  - data quality
+  - data governance
+  - telecommunications
+  - ISO/IEC 25012
+  - DAMA-DMBOK
+  - reproducibility
+  - Nigeria
