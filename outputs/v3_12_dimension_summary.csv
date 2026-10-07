@@ -1,0 +1,13 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: v3_12_dimension_summary.csv>
+index,dimension,measure,result,interpretation
+0,Completeness,Mean normalised state/FCT coverage across canonical Voice/Internet sheets,100.00%,Label aliases are normalised before coverage is calculated; naming defects are reported separately.
+1,Consistency,Cross-period embedded-reference reconciliation,99.85% (665/666),"Tests published-table agreement, not independent real-world truth."
+2,Accuracy / reconciliation,State subtotal arithmetic,100.00%,Current state totals vs sum of operator components.
+3,Accuracy / reconciliation,Published YoY/QoQ percentage recalculation,100.00%,Recomputes percentages where both current and reference values are available.
+4,Accuracy / reconciliation,Porting component-to-total reconciliation,100.00% (14/14),PORT-IN/PORT-OUT totals vs operator components.
+5,Accuracy / reconciliation,Zone aggregate reconciliation to state-level totals,84.52% (71/84),"Uses normalised state names, including NASSARAWA→NASARAWA."
+6,Precision,Unexpected non-integer subscription/count cells,0,Subscription and porting counts are expected to be whole-number quantities.
+7,Traceability,Canonical sheets with an embedded source/note reference,0/21 canonical sheets,This is workbook-embedded provenance only; official catalogue provenance must be assessed separately.
+8,Currentness,Publication lag,Pending external official catalogue metadata,Local file timestamps are not used.
+9,Compliance,Alignment with formal reporting requirements,Pending authoritative NCC/NBS rules,No compliance claim is made without an explicit external benchmark.
