@@ -1,0 +1,447 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: v3_07_revision_stability.csv>
+index,quarter,service_type,state,earliest_workbook,latest_workbook,earliest_total,latest_total,difference,status
+0,Q2 2024,Voice,ABIA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3562532.0,3562532.0,0.0,same
+1,Q2 2024,Voice,ADAMAWA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,4335578.0,4335578.0,0.0,same
+2,Q2 2024,Voice,AKWA IBOM,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2979944.0,2979944.0,0.0,same
+3,Q2 2024,Voice,ANAMBRA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,4690976.0,4690976.0,0.0,same
+4,Q2 2024,Voice,BAUCHI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,4052525.0,4052525.0,0.0,same
+5,Q2 2024,Voice,BAYELSA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,1115420.0,1115420.0,0.0,same
+6,Q2 2024,Voice,BENUE,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3354991.0,3354991.0,0.0,same
+7,Q2 2024,Voice,BORNO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,4034811.0,4034811.0,0.0,same
+8,Q2 2024,Voice,CROSS RIVER,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2268069.0,2268069.0,0.0,same
+9,Q2 2024,Voice,DELTA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,5380658.0,5380658.0,0.0,same
+10,Q2 2024,Voice,EBONYI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2365803.0,2365803.0,0.0,same
+11,Q2 2024,Voice,EDO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,4205186.0,4205186.0,0.0,same
+12,Q2 2024,Voice,EKITI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2761529.0,2761529.0,0.0,same
+13,Q2 2024,Voice,ENUGU,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3107840.0,3107840.0,0.0,same
+14,Q2 2024,Voice,FCT,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,6782586.0,6782586.0,0.0,same
+15,Q2 2024,Voice,GOMBE,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2258404.0,2258404.0,0.0,same
+16,Q2 2024,Voice,IMO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3707003.0,3707003.0,0.0,same
+17,Q2 2024,Voice,JIGAWA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2751991.0,2751991.0,0.0,same
+18,Q2 2024,Voice,KADUNA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,7677023.0,7677023.0,0.0,same
+19,Q2 2024,Voice,KANO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,10906052.0,10906052.0,0.0,same
+20,Q2 2024,Voice,KATSINA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,4652683.0,4652683.0,0.0,same
+21,Q2 2024,Voice,KEBBI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2501847.0,2501847.0,0.0,same
+22,Q2 2024,Voice,KOGI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2815628.0,2815628.0,0.0,same
+23,Q2 2024,Voice,KWARA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3959056.0,3959056.0,0.0,same
+24,Q2 2024,Voice,LAGOS,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,22041765.0,22041765.0,0.0,same
+25,Q2 2024,Voice,NASARAWA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3533643.0,3533643.0,0.0,same
+26,Q2 2024,Voice,NIGER,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,5093072.0,5093072.0,0.0,same
+27,Q2 2024,Voice,OGUN,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,9398337.0,9398337.0,0.0,same
+28,Q2 2024,Voice,ONDO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3447973.0,3447973.0,0.0,same
+29,Q2 2024,Voice,OSUN,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3806777.0,3806777.0,0.0,same
+30,Q2 2024,Voice,OYO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,7701355.0,7701355.0,0.0,same
+31,Q2 2024,Voice,PLATEAU,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3388765.0,3388765.0,0.0,same
+32,Q2 2024,Voice,RIVERS,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,5944333.0,5944333.0,0.0,same
+33,Q2 2024,Voice,SOKOTO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2817327.0,2817327.0,0.0,same
+34,Q2 2024,Voice,TARABA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2780954.0,2780954.0,0.0,same
+35,Q2 2024,Voice,YOBE,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2532653.0,2532653.0,0.0,same
+36,Q2 2024,Voice,ZAMFARA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2189168.0,2189168.0,0.0,same
+37,Q2 2024,Internet,ABIA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2848507.0,2848507.0,0.0,same
+38,Q2 2024,Internet,ADAMAWA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3358622.0,3358622.0,0.0,same
+39,Q2 2024,Internet,AKWA IBOM,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2328735.0,2328735.0,0.0,same
+40,Q2 2024,Internet,ANAMBRA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3736765.0,3736765.0,0.0,same
+41,Q2 2024,Internet,BAUCHI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3170041.0,3170041.0,0.0,same
+42,Q2 2024,Internet,BAYELSA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,900820.0,900820.0,0.0,same
+43,Q2 2024,Internet,BENUE,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2564738.0,2564738.0,0.0,same
+44,Q2 2024,Internet,BORNO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3101261.0,3101261.0,0.0,same
+45,Q2 2024,Internet,CROSS RIVER,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,1794710.0,1794710.0,0.0,same
+46,Q2 2024,Internet,DELTA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,4465550.0,4465550.0,0.0,same
+47,Q2 2024,Internet,EBONYI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,1884572.0,1884572.0,0.0,same
+48,Q2 2024,Internet,EDO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3467381.0,3467381.0,0.0,same
+49,Q2 2024,Internet,EKITI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2331632.0,2331632.0,0.0,same
+50,Q2 2024,Internet,ENUGU,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2476467.0,2476467.0,0.0,same
+51,Q2 2024,Internet,FCT,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,5520344.0,5520344.0,0.0,same
+52,Q2 2024,Internet,GOMBE,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,1720177.0,1720177.0,0.0,same
+53,Q2 2024,Internet,IMO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2986930.0,2986930.0,0.0,same
+54,Q2 2024,Internet,JIGAWA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2134914.0,2134914.0,0.0,same
+55,Q2 2024,Internet,KADUNA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,6077953.0,6077953.0,0.0,same
+56,Q2 2024,Internet,KANO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,8514148.0,8514148.0,0.0,same
+57,Q2 2024,Internet,KATSINA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3658069.0,3658069.0,0.0,same
+58,Q2 2024,Internet,KEBBI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,1925917.0,1925917.0,0.0,same
+59,Q2 2024,Internet,KOGI,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2228245.0,2228245.0,0.0,same
+60,Q2 2024,Internet,KWARA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3163129.0,3163129.0,0.0,same
+61,Q2 2024,Internet,LAGOS,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,17739268.0,17739268.0,0.0,same
+62,Q2 2024,Internet,NASARAWA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2777836.0,2777836.0,0.0,same
+63,Q2 2024,Internet,NIGER,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3877366.0,3877366.0,0.0,same
+64,Q2 2024,Internet,OGUN,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,7914491.0,7914491.0,0.0,same
+65,Q2 2024,Internet,ONDO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2812615.0,2812615.0,0.0,same
+66,Q2 2024,Internet,OSUN,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,3151492.0,3151492.0,0.0,same
+67,Q2 2024,Internet,OYO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,6263629.0,6263629.0,0.0,same
+68,Q2 2024,Internet,PLATEAU,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2696791.0,2696791.0,0.0,same
+69,Q2 2024,Internet,RIVERS,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,4866415.0,4866415.0,0.0,same
+70,Q2 2024,Internet,SOKOTO,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2159534.0,2159534.0,0.0,same
+71,Q2 2024,Internet,TARABA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2088363.0,2088363.0,0.0,same
+72,Q2 2024,Internet,YOBE,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,1913482.0,1913482.0,0.0,same
+73,Q2 2024,Internet,ZAMFARA,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,1590773.0,1590773.0,0.0,same
+74,Q3 2024,Voice,ABIA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3139378.0,3139378.0,0.0,same
+75,Q3 2024,Voice,ADAMAWA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3893748.0,3893748.0,0.0,same
+76,Q3 2024,Voice,AKWA IBOM,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2658693.0,2658693.0,0.0,same
+77,Q3 2024,Voice,ANAMBRA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,4374651.0,4374651.0,0.0,same
+78,Q3 2024,Voice,BAUCHI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3713518.0,3713518.0,0.0,same
+79,Q3 2024,Voice,BAYELSA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1016290.0,1016290.0,0.0,same
+80,Q3 2024,Voice,BENUE,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3056651.0,3056651.0,0.0,same
+81,Q3 2024,Voice,BORNO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3565279.0,3565279.0,0.0,same
+82,Q3 2024,Voice,CROSS RIVER,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2077858.0,2077858.0,0.0,same
+83,Q3 2024,Voice,DELTA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,4963236.0,4963236.0,0.0,same
+84,Q3 2024,Voice,EBONYI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2198564.0,2198564.0,0.0,same
+85,Q3 2024,Voice,EDO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3879803.0,3879803.0,0.0,same
+86,Q3 2024,Voice,EKITI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2545017.0,2545017.0,0.0,same
+87,Q3 2024,Voice,ENUGU,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2860616.0,2860616.0,0.0,same
+88,Q3 2024,Voice,FCT,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,6275888.0,6275888.0,0.0,same
+89,Q3 2024,Voice,GOMBE,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1900465.0,1900465.0,0.0,same
+90,Q3 2024,Voice,IMO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3456333.0,3456333.0,0.0,same
+91,Q3 2024,Voice,JIGAWA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2474866.0,2474866.0,0.0,same
+92,Q3 2024,Voice,KADUNA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,6915288.0,6915288.0,0.0,same
+93,Q3 2024,Voice,KANO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,9699348.0,9699348.0,0.0,same
+94,Q3 2024,Voice,KATSINA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,4234618.0,4234618.0,0.0,same
+95,Q3 2024,Voice,KEBBI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2162263.0,2162263.0,0.0,same
+96,Q3 2024,Voice,KOGI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2579552.0,2579552.0,0.0,same
+97,Q3 2024,Voice,KWARA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3516838.0,3516838.0,0.0,same
+98,Q3 2024,Voice,LAGOS,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,19588707.0,19588707.0,0.0,same
+99,Q3 2024,Voice,NASARAWA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3217482.0,3217482.0,0.0,same
+100,Q3 2024,Voice,NIGER,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,4659746.0,4659746.0,0.0,same
+101,Q3 2024,Voice,OGUN,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,8552902.0,8552902.0,0.0,same
+102,Q3 2024,Voice,ONDO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3217508.0,3217508.0,0.0,same
+103,Q3 2024,Voice,OSUN,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3482892.0,3482892.0,0.0,same
+104,Q3 2024,Voice,OYO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,7079433.0,7079433.0,0.0,same
+105,Q3 2024,Voice,PLATEAU,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3111613.0,3111613.0,0.0,same
+106,Q3 2024,Voice,RIVERS,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,5562682.0,5562682.0,0.0,same
+107,Q3 2024,Voice,SOKOTO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2401772.0,2401772.0,0.0,same
+108,Q3 2024,Voice,TARABA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2523393.0,2523393.0,0.0,same
+109,Q3 2024,Voice,YOBE,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2325761.0,2325761.0,0.0,same
+110,Q3 2024,Voice,ZAMFARA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2022175.0,2022175.0,0.0,same
+111,Q3 2024,Internet,ABIA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2765506.0,2765506.0,0.0,same
+112,Q3 2024,Internet,ADAMAWA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3189006.0,3189006.0,0.0,same
+113,Q3 2024,Internet,AKWA IBOM,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2240130.0,2240130.0,0.0,same
+114,Q3 2024,Internet,ANAMBRA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3779490.0,3779490.0,0.0,same
+115,Q3 2024,Internet,BAUCHI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3035515.0,3035515.0,0.0,same
+116,Q3 2024,Internet,BAYELSA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,891902.0,891902.0,0.0,same
+117,Q3 2024,Internet,BENUE,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2520950.0,2520950.0,0.0,same
+118,Q3 2024,Internet,BORNO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2890878.0,2890878.0,0.0,same
+119,Q3 2024,Internet,CROSS RIVER,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1767814.0,1767814.0,0.0,same
+120,Q3 2024,Internet,DELTA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,4424157.0,4424157.0,0.0,same
+121,Q3 2024,Internet,EBONYI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1873860.0,1873860.0,0.0,same
+122,Q3 2024,Internet,EDO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3439306.0,3439306.0,0.0,same
+123,Q3 2024,Internet,EKITI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2291915.0,2291915.0,0.0,same
+124,Q3 2024,Internet,ENUGU,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2441466.0,2441466.0,0.0,same
+125,Q3 2024,Internet,FCT,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,5558684.0,5558684.0,0.0,same
+126,Q3 2024,Internet,GOMBE,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1545557.0,1545557.0,0.0,same
+127,Q3 2024,Internet,IMO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2976227.0,2976227.0,0.0,same
+128,Q3 2024,Internet,JIGAWA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1992538.0,1992538.0,0.0,same
+129,Q3 2024,Internet,KADUNA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,5841864.0,5841864.0,0.0,same
+130,Q3 2024,Internet,KANO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,8094933.0,8094933.0,0.0,same
+131,Q3 2024,Internet,KATSINA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3434653.0,3434653.0,0.0,same
+132,Q3 2024,Internet,KEBBI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1745629.0,1745629.0,0.0,same
+133,Q3 2024,Internet,KOGI,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2155493.0,2155493.0,0.0,same
+134,Q3 2024,Internet,KWARA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2969515.0,2969515.0,0.0,same
+135,Q3 2024,Internet,LAGOS,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,17682253.0,17682253.0,0.0,same
+136,Q3 2024,Internet,NASARAWA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2717996.0,2717996.0,0.0,same
+137,Q3 2024,Internet,NIGER,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3768988.0,3768988.0,0.0,same
+138,Q3 2024,Internet,OGUN,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,7708817.0,7708817.0,0.0,same
+139,Q3 2024,Internet,ONDO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2819976.0,2819976.0,0.0,same
+140,Q3 2024,Internet,OSUN,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,3032229.0,3032229.0,0.0,same
+141,Q3 2024,Internet,OYO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,6127680.0,6127680.0,0.0,same
+142,Q3 2024,Internet,PLATEAU,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2621025.0,2621025.0,0.0,same
+143,Q3 2024,Internet,RIVERS,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,4904324.0,4904324.0,0.0,same
+144,Q3 2024,Internet,SOKOTO,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1953329.0,1953329.0,0.0,same
+145,Q3 2024,Internet,TARABA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2021673.0,2021673.0,0.0,same
+146,Q3 2024,Internet,YOBE,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1864446.0,1864446.0,0.0,same
+147,Q3 2024,Internet,ZAMFARA,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,1531575.0,1531575.0,0.0,same
+148,Q4 2024,Voice,ABIA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3345080.0,3345080.0,0.0,same
+149,Q4 2024,Voice,ADAMAWA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,4178289.0,4178289.0,0.0,same
+150,Q4 2024,Voice,AKWA IBOM,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2812695.0,2812695.0,0.0,same
+151,Q4 2024,Voice,ANAMBRA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,4618510.0,4618510.0,0.0,same
+152,Q4 2024,Voice,BAUCHI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,4096335.0,4096335.0,0.0,same
+153,Q4 2024,Voice,BAYELSA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,1048387.0,1048387.0,0.0,same
+154,Q4 2024,Voice,BENUE,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3320068.0,3320068.0,0.0,same
+155,Q4 2024,Voice,BORNO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3776935.0,3776935.0,0.0,same
+156,Q4 2024,Voice,CROSS RIVER,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2244858.0,2244858.0,0.0,same
+157,Q4 2024,Voice,DELTA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,5227329.0,5227329.0,0.0,same
+158,Q4 2024,Voice,EBONYI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2315054.0,2315054.0,0.0,same
+159,Q4 2024,Voice,EDO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,4100655.0,4100655.0,0.0,same
+160,Q4 2024,Voice,EKITI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2672892.0,2672892.0,0.0,same
+161,Q4 2024,Voice,ENUGU,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3153966.0,3153966.0,0.0,same
+162,Q4 2024,Voice,FCT,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,6447984.0,6447984.0,0.0,same
+163,Q4 2024,Voice,GOMBE,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2188977.0,2188977.0,0.0,same
+164,Q4 2024,Voice,IMO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3708420.0,3708420.0,0.0,same
+165,Q4 2024,Voice,JIGAWA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2745921.0,2745921.0,0.0,same
+166,Q4 2024,Voice,KADUNA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,7468937.0,7468937.0,0.0,same
+167,Q4 2024,Voice,KANO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,10274237.0,10274237.0,0.0,same
+168,Q4 2024,Voice,KATSINA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,4577560.0,4577560.0,0.0,same
+169,Q4 2024,Voice,KEBBI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2509005.0,2509005.0,0.0,same
+170,Q4 2024,Voice,KOGI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2800737.0,2800737.0,0.0,same
+171,Q4 2024,Voice,KWARA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3773581.0,3773581.0,0.0,same
+172,Q4 2024,Voice,LAGOS,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,20089476.0,20089476.0,0.0,same
+173,Q4 2024,Voice,NASARAWA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3491060.0,3491060.0,0.0,same
+174,Q4 2024,Voice,NIGER,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,5182304.0,5182304.0,0.0,same
+175,Q4 2024,Voice,OGUN,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,8807134.0,8807134.0,0.0,same
+176,Q4 2024,Voice,ONDO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3473297.0,3473297.0,0.0,same
+177,Q4 2024,Voice,OSUN,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3771369.0,3771369.0,0.0,same
+178,Q4 2024,Voice,OYO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,7422216.0,7422216.0,0.0,same
+179,Q4 2024,Voice,PLATEAU,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3405060.0,3405060.0,0.0,same
+180,Q4 2024,Voice,RIVERS,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,5780351.0,5780351.0,0.0,same
+181,Q4 2024,Voice,SOKOTO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2670391.0,2670391.0,0.0,same
+182,Q4 2024,Voice,TARABA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2786928.0,2786928.0,0.0,same
+183,Q4 2024,Voice,YOBE,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2476611.0,2476611.0,0.0,same
+184,Q4 2024,Voice,ZAMFARA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2163990.0,2163990.0,0.0,same
+185,Q4 2024,Internet,ABIA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2804836.0,2804836.0,0.0,same
+186,Q4 2024,Internet,ADAMAWA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3426307.0,3426307.0,0.0,same
+187,Q4 2024,Internet,AKWA IBOM,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2300772.0,2300772.0,0.0,same
+188,Q4 2024,Internet,ANAMBRA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3913408.0,3913408.0,0.0,same
+189,Q4 2024,Internet,BAUCHI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3371379.0,3371379.0,0.0,same
+190,Q4 2024,Internet,BAYELSA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,894036.0,894036.0,0.0,same
+191,Q4 2024,Internet,BENUE,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2682286.0,2682286.0,0.0,same
+192,Q4 2024,Internet,BORNO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3054483.0,3054483.0,0.0,same
+193,Q4 2024,Internet,CROSS RIVER,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,1871828.0,1871828.0,0.0,same
+194,Q4 2024,Internet,DELTA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,4563669.0,4563669.0,0.0,same
+195,Q4 2024,Internet,EBONYI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,1924208.0,1924208.0,0.0,same
+196,Q4 2024,Internet,EDO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3558828.0,3558828.0,0.0,same
+197,Q4 2024,Internet,EKITI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2338556.0,2338556.0,0.0,same
+198,Q4 2024,Internet,ENUGU,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2646299.0,2646299.0,0.0,same
+199,Q4 2024,Internet,FCT,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,5615272.0,5615272.0,0.0,same
+200,Q4 2024,Internet,GOMBE,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,1766483.0,1766483.0,0.0,same
+201,Q4 2024,Internet,IMO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3127808.0,3127808.0,0.0,same
+202,Q4 2024,Internet,JIGAWA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2212843.0,2212843.0,0.0,same
+203,Q4 2024,Internet,KADUNA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,6255376.0,6255376.0,0.0,same
+204,Q4 2024,Internet,KANO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,8518294.0,8518294.0,0.0,same
+205,Q4 2024,Internet,KATSINA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3699444.0,3699444.0,0.0,same
+206,Q4 2024,Internet,KEBBI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,1997638.0,1997638.0,0.0,same
+207,Q4 2024,Internet,KOGI,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2299511.0,2299511.0,0.0,same
+208,Q4 2024,Internet,KWARA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3150807.0,3150807.0,0.0,same
+209,Q4 2024,Internet,LAGOS,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,17622527.0,17622527.0,0.0,same
+210,Q4 2024,Internet,NASARAWA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2919539.0,2919539.0,0.0,same
+211,Q4 2024,Internet,NIGER,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,4174898.0,4174898.0,0.0,same
+212,Q4 2024,Internet,OGUN,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,7906963.0,7906963.0,0.0,same
+213,Q4 2024,Internet,ONDO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2969999.0,2969999.0,0.0,same
+214,Q4 2024,Internet,OSUN,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,3224684.0,3224684.0,0.0,same
+215,Q4 2024,Internet,OYO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,6345393.0,6345393.0,0.0,same
+216,Q4 2024,Internet,PLATEAU,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2826494.0,2826494.0,0.0,same
+217,Q4 2024,Internet,RIVERS,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,4983627.0,4983627.0,0.0,same
+218,Q4 2024,Internet,SOKOTO,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2120093.0,2120093.0,0.0,same
+219,Q4 2024,Internet,TARABA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2222231.0,2222231.0,0.0,same
+220,Q4 2024,Internet,YOBE,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2010407.0,2010407.0,0.0,same
+221,Q4 2024,Internet,ZAMFARA,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,1675180.0,1675180.0,0.0,same
+222,Q1 2025,Voice,ABIA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3402850.0,3402850.0,0.0,same
+223,Q1 2025,Voice,ADAMAWA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3473088.0,3473088.0,0.0,same
+224,Q1 2025,Voice,AKWA IBOM,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2932256.0,2932256.0,0.0,same
+225,Q1 2025,Voice,ANAMBRA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,4919849.0,4919849.0,0.0,same
+226,Q1 2025,Voice,BAUCHI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,4124306.0,4124306.0,0.0,same
+227,Q1 2025,Voice,BAYELSA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,1150399.0,1150399.0,0.0,same
+228,Q1 2025,Voice,BENUE,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,4015205.0,4015205.0,0.0,same
+229,Q1 2025,Voice,BORNO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3437581.0,3437581.0,0.0,same
+230,Q1 2025,Voice,CROSS RIVER,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2487149.0,2487149.0,0.0,same
+231,Q1 2025,Voice,DELTA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,6182918.0,6182918.0,0.0,same
+232,Q1 2025,Voice,EBONYI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,1651389.0,1651389.0,0.0,same
+233,Q1 2025,Voice,EDO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,5542721.0,5542721.0,0.0,same
+234,Q1 2025,Voice,EKITI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,1686382.0,1686382.0,0.0,same
+235,Q1 2025,Voice,ENUGU,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3544582.0,3544582.0,0.0,same
+236,Q1 2025,Voice,FCT,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,7477649.0,7477649.0,0.0,same
+237,Q1 2025,Voice,GOMBE,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2334549.0,2334549.0,0.0,same
+238,Q1 2025,Voice,IMO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3855059.0,3855059.0,0.0,same
+239,Q1 2025,Voice,JIGAWA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2812045.0,2812045.0,0.0,same
+240,Q1 2025,Voice,KADUNA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,7783763.0,7783763.0,0.0,same
+241,Q1 2025,Voice,KANO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,10842403.0,10842403.0,0.0,same
+242,Q1 2025,Voice,KATSINA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,4473932.0,4473932.0,0.0,same
+243,Q1 2025,Voice,KEBBI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2682251.0,2682251.0,0.0,same
+244,Q1 2025,Voice,KOGI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2995290.0,2995290.0,0.0,same
+245,Q1 2025,Voice,KWARA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3965886.0,3965886.0,0.0,same
+246,Q1 2025,Voice,LAGOS,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,20796495.0,20796495.0,0.0,same
+247,Q1 2025,Voice,NASARAWA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3680140.0,3680140.0,0.0,same
+248,Q1 2025,Voice,NIGER,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,5548382.0,5548382.0,0.0,same
+249,Q1 2025,Voice,OGUN,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,9524744.0,9524744.0,0.0,same
+250,Q1 2025,Voice,ONDO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3657599.0,3657599.0,0.0,same
+251,Q1 2025,Voice,OSUN,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3938452.0,3938452.0,0.0,same
+252,Q1 2025,Voice,OYO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,7678179.0,7678179.0,0.0,same
+253,Q1 2025,Voice,PLATEAU,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3523732.0,3523732.0,0.0,same
+254,Q1 2025,Voice,RIVERS,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,6013529.0,6013529.0,0.0,same
+255,Q1 2025,Voice,SOKOTO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2848256.0,2848256.0,0.0,same
+256,Q1 2025,Voice,TARABA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2902747.0,2902747.0,0.0,same
+257,Q1 2025,Voice,YOBE,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2583904.0,2583904.0,0.0,same
+258,Q1 2025,Voice,ZAMFARA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2238749.0,2238749.0,0.0,same
+259,Q1 2025,Internet,ABIA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2773648.0,2773648.0,0.0,same
+260,Q1 2025,Internet,ADAMAWA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2764531.0,2764531.0,0.0,same
+261,Q1 2025,Internet,AKWA IBOM,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2373236.0,2373236.0,0.0,same
+262,Q1 2025,Internet,ANAMBRA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,4096142.0,4096142.0,0.0,same
+263,Q1 2025,Internet,BAUCHI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3300341.0,3300341.0,0.0,same
+264,Q1 2025,Internet,BAYELSA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,974573.0,974573.0,0.0,same
+265,Q1 2025,Internet,BENUE,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3063657.0,3063657.0,0.0,same
+266,Q1 2025,Internet,BORNO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2779025.0,2779025.0,0.0,same
+267,Q1 2025,Internet,CROSS RIVER,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2036891.0,2036891.0,0.0,same
+268,Q1 2025,Internet,DELTA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,5307869.0,5307869.0,0.0,same
+269,Q1 2025,Internet,EBONYI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,1309085.0,1309085.0,0.0,same
+270,Q1 2025,Internet,EDO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,4704419.0,4704419.0,0.0,same
+271,Q1 2025,Internet,EKITI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,1445633.0,1445633.0,0.0,same
+272,Q1 2025,Internet,ENUGU,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2891207.0,2891207.0,0.0,same
+273,Q1 2025,Internet,FCT,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,6321226.0,6321226.0,0.0,same
+274,Q1 2025,Internet,GOMBE,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,1841336.0,1841336.0,0.0,same
+275,Q1 2025,Internet,IMO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3193029.0,3193029.0,0.0,same
+276,Q1 2025,Internet,JIGAWA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2230853.0,2230853.0,0.0,same
+277,Q1 2025,Internet,KADUNA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,6376612.0,6376612.0,0.0,same
+278,Q1 2025,Internet,KANO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,8783669.0,8783669.0,0.0,same
+279,Q1 2025,Internet,KATSINA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3560629.0,3560629.0,0.0,same
+280,Q1 2025,Internet,KEBBI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2094690.0,2094690.0,0.0,same
+281,Q1 2025,Internet,KOGI,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2335269.0,2335269.0,0.0,same
+282,Q1 2025,Internet,KWARA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3201176.0,3201176.0,0.0,same
+283,Q1 2025,Internet,LAGOS,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,17631480.0,17631480.0,0.0,same
+284,Q1 2025,Internet,NASARAWA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2994215.0,2994215.0,0.0,same
+285,Q1 2025,Internet,NIGER,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,4290374.0,4290374.0,0.0,same
+286,Q1 2025,Internet,OGUN,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,8263023.0,8263023.0,0.0,same
+287,Q1 2025,Internet,ONDO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3032472.0,3032472.0,0.0,same
+288,Q1 2025,Internet,OSUN,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,3297802.0,3297802.0,0.0,same
+289,Q1 2025,Internet,OYO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,6361374.0,6361374.0,0.0,same
+290,Q1 2025,Internet,PLATEAU,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2865456.0,2865456.0,0.0,same
+291,Q1 2025,Internet,RIVERS,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,5073571.0,5073571.0,0.0,same
+292,Q1 2025,Internet,SOKOTO,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2188077.0,2188077.0,0.0,same
+293,Q1 2025,Internet,TARABA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2272494.0,2272494.0,0.0,same
+294,Q1 2025,Internet,YOBE,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2059982.0,2059982.0,0.0,same
+295,Q1 2025,Internet,ZAMFARA,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,1678769.0,1678769.0,0.0,same
+296,Q2 2025,Voice,ABIA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3420032.0,3420032.0,0.0,same
+297,Q2 2025,Voice,ADAMAWA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3456817.0,3456817.0,0.0,same
+298,Q2 2025,Voice,AKWA IBOM,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2945614.0,2945614.0,0.0,same
+299,Q2 2025,Voice,ANAMBRA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,4881223.0,4881223.0,0.0,same
+300,Q2 2025,Voice,BAUCHI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,4125712.0,4125712.0,0.0,same
+301,Q2 2025,Voice,BAYELSA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1148655.0,1148655.0,0.0,same
+302,Q2 2025,Voice,BENUE,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3899788.0,3899788.0,0.0,same
+303,Q2 2025,Voice,BORNO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3465864.0,3465864.0,0.0,same
+304,Q2 2025,Voice,CROSS RIVER,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2444647.0,2444647.0,0.0,same
+305,Q2 2025,Voice,DELTA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,6143481.0,6143481.0,0.0,same
+306,Q2 2025,Voice,EBONYI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1633547.0,1633547.0,0.0,same
+307,Q2 2025,Voice,EDO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,5516721.0,5516721.0,0.0,same
+308,Q2 2025,Voice,EKITI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1667558.0,1667558.0,0.0,same
+309,Q2 2025,Voice,ENUGU,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3557465.0,3557465.0,0.0,same
+310,Q2 2025,Voice,FCT,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,7432228.0,7432228.0,0.0,same
+311,Q2 2025,Voice,GOMBE,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2337086.0,2337086.0,0.0,same
+312,Q2 2025,Voice,IMO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3801857.0,3801857.0,0.0,same
+313,Q2 2025,Voice,JIGAWA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2887691.0,2887691.0,0.0,same
+314,Q2 2025,Voice,KADUNA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,7598388.0,7598388.0,0.0,same
+315,Q2 2025,Voice,KANO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,11006922.0,11006922.0,0.0,same
+316,Q2 2025,Voice,KATSINA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,4735046.0,4735046.0,0.0,same
+317,Q2 2025,Voice,KEBBI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2444083.0,2444083.0,0.0,same
+318,Q2 2025,Voice,KOGI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3027274.0,3027274.0,0.0,same
+319,Q2 2025,Voice,KWARA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3944779.0,3944779.0,0.0,same
+320,Q2 2025,Voice,LAGOS,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,20469762.0,20469762.0,0.0,same
+321,Q2 2025,Voice,NASARAWA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3581655.0,3581655.0,0.0,same
+322,Q2 2025,Voice,NIGER,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,4992820.0,4992820.0,0.0,same
+323,Q2 2025,Voice,OGUN,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,9759254.0,9759254.0,0.0,same
+324,Q2 2025,Voice,ONDO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3605824.0,3605824.0,0.0,same
+325,Q2 2025,Voice,OSUN,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3917808.0,3917808.0,0.0,same
+326,Q2 2025,Voice,OYO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,7633577.0,7633577.0,0.0,same
+327,Q2 2025,Voice,PLATEAU,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3503254.0,3503254.0,0.0,same
+328,Q2 2025,Voice,RIVERS,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,6027684.0,6027684.0,0.0,same
+329,Q2 2025,Voice,SOKOTO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2911835.0,2911835.0,0.0,same
+330,Q2 2025,Voice,TARABA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2885860.0,2885860.0,0.0,same
+331,Q2 2025,Voice,YOBE,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2594192.0,2594192.0,0.0,same
+332,Q2 2025,Voice,ZAMFARA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2324061.0,2324061.0,0.0,same
+333,Q2 2025,Internet,ABIA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2813430.0,2813430.0,0.0,same
+334,Q2 2025,Internet,ADAMAWA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2748758.0,2748758.0,0.0,same
+335,Q2 2025,Internet,AKWA IBOM,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2402365.0,2402365.0,0.0,same
+336,Q2 2025,Internet,ANAMBRA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,4114142.0,4114142.0,0.0,same
+337,Q2 2025,Internet,BAUCHI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3273953.0,3273953.0,0.0,same
+338,Q2 2025,Internet,BAYELSA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,970286.0,970286.0,0.0,same
+339,Q2 2025,Internet,BENUE,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2872909.0,2872909.0,0.0,same
+340,Q2 2025,Internet,BORNO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2821771.0,2821771.0,0.0,same
+341,Q2 2025,Internet,CROSS RIVER,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1991513.0,1991513.0,0.0,same
+342,Q2 2025,Internet,DELTA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,5322668.0,5322668.0,0.0,same
+343,Q2 2025,Internet,EBONYI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1288960.0,1288960.0,0.0,same
+344,Q2 2025,Internet,EDO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,4689292.0,4689292.0,0.0,same
+345,Q2 2025,Internet,EKITI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1422334.0,1422334.0,0.0,same
+346,Q2 2025,Internet,ENUGU,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2912707.0,2912707.0,0.0,same
+347,Q2 2025,Internet,FCT,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,6256191.0,6256191.0,0.0,same
+348,Q2 2025,Internet,GOMBE,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1857765.0,1857765.0,0.0,same
+349,Q2 2025,Internet,IMO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3185970.0,3185970.0,0.0,same
+350,Q2 2025,Internet,JIGAWA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2288720.0,2288720.0,0.0,same
+351,Q2 2025,Internet,KADUNA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,6160145.0,6160145.0,0.0,same
+352,Q2 2025,Internet,KANO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,8896247.0,8896247.0,0.0,same
+353,Q2 2025,Internet,KATSINA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3747303.0,3747303.0,0.0,same
+354,Q2 2025,Internet,KEBBI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1881023.0,1881023.0,0.0,same
+355,Q2 2025,Internet,KOGI,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2334525.0,2334525.0,0.0,same
+356,Q2 2025,Internet,KWARA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3171928.0,3171928.0,0.0,same
+357,Q2 2025,Internet,LAGOS,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,17591914.0,17591914.0,0.0,same
+358,Q2 2025,Internet,NASARAWA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2897355.0,2897355.0,0.0,same
+359,Q2 2025,Internet,NIGER,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3806830.0,3806830.0,0.0,same
+360,Q2 2025,Internet,OGUN,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,8458904.0,8458904.0,0.0,same
+361,Q2 2025,Internet,ONDO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2954369.0,2954369.0,0.0,same
+362,Q2 2025,Internet,OSUN,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,3281128.0,3281128.0,0.0,same
+363,Q2 2025,Internet,OYO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,6288094.0,6288094.0,0.0,same
+364,Q2 2025,Internet,PLATEAU,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2837141.0,2837141.0,0.0,same
+365,Q2 2025,Internet,RIVERS,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,5111143.0,5111143.0,0.0,same
+366,Q2 2025,Internet,SOKOTO,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2210129.0,2210129.0,0.0,same
+367,Q2 2025,Internet,TARABA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2231198.0,2231198.0,0.0,same
+368,Q2 2025,Internet,YOBE,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2077439.0,2077439.0,0.0,same
+369,Q2 2025,Internet,ZAMFARA,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,1702761.0,1702761.0,0.0,same
+370,Q3 2025,Voice,ABIA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3514900.0,3514900.0,0.0,same
+371,Q3 2025,Voice,ADAMAWA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3371735.0,3371735.0,0.0,same
+372,Q3 2025,Voice,AKWA IBOM,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2972120.0,2972120.0,0.0,same
+373,Q3 2025,Voice,ANAMBRA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,5074987.0,5074987.0,0.0,same
+374,Q3 2025,Voice,BAUCHI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,4104470.0,4104470.0,0.0,same
+375,Q3 2025,Voice,BAYELSA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1157939.0,1157939.0,0.0,same
+376,Q3 2025,Voice,BENUE,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3883206.0,3883206.0,0.0,same
+377,Q3 2025,Voice,BORNO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3428691.0,3428691.0,0.0,same
+378,Q3 2025,Voice,CROSS RIVER,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2416274.0,2416274.0,0.0,same
+379,Q3 2025,Voice,DELTA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,6218574.0,6218574.0,0.0,same
+380,Q3 2025,Voice,EBONYI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1628591.0,1628591.0,0.0,same
+381,Q3 2025,Voice,EDO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,5566616.0,5566616.0,0.0,same
+382,Q3 2025,Voice,EKITI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1660191.0,1660191.0,0.0,same
+383,Q3 2025,Voice,ENUGU,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3675327.0,3675327.0,0.0,same
+384,Q3 2025,Voice,FCT,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,7610486.0,7610486.0,0.0,same
+385,Q3 2025,Voice,GOMBE,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2278501.0,2278501.0,0.0,same
+386,Q3 2025,Voice,IMO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3882293.0,3882293.0,0.0,same
+387,Q3 2025,Voice,JIGAWA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2847164.0,2847164.0,0.0,same
+388,Q3 2025,Voice,KADUNA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,7658417.0,7658417.0,0.0,same
+389,Q3 2025,Voice,KANO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,10896350.0,10896350.0,0.0,same
+390,Q3 2025,Voice,KATSINA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,4725032.0,4725032.0,0.0,same
+391,Q3 2025,Voice,KEBBI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2587474.0,2587474.0,0.0,same
+392,Q3 2025,Voice,KOGI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2980736.0,2980736.0,0.0,same
+393,Q3 2025,Voice,KWARA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3796605.0,3796605.0,0.0,same
+394,Q3 2025,Voice,LAGOS,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,21425415.0,21425415.0,0.0,same
+395,Q3 2025,Voice,NASARAWA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3566790.0,3566790.0,0.0,same
+396,Q3 2025,Voice,NIGER,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,5196516.0,5196516.0,0.0,same
+397,Q3 2025,Voice,OGUN,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,9959469.0,9959469.0,0.0,same
+398,Q3 2025,Voice,ONDO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3689949.0,3689949.0,0.0,same
+399,Q3 2025,Voice,OSUN,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3898763.0,3898763.0,0.0,same
+400,Q3 2025,Voice,OYO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,7713263.0,7713263.0,0.0,same
+401,Q3 2025,Voice,PLATEAU,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3448954.0,3448954.0,0.0,same
+402,Q3 2025,Voice,RIVERS,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,6158746.0,6158746.0,0.0,same
+403,Q3 2025,Voice,SOKOTO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2940255.0,2940255.0,0.0,same
+404,Q3 2025,Voice,TARABA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2781328.0,2781328.0,0.0,same
+405,Q3 2025,Voice,YOBE,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2573103.0,2573103.0,0.0,same
+406,Q3 2025,Voice,ZAMFARA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2252753.0,2252753.0,0.0,same
+407,Q3 2025,Internet,ABIA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2873283.0,2873283.0,0.0,same
+408,Q3 2025,Internet,ADAMAWA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2639248.0,2639248.0,0.0,same
+409,Q3 2025,Internet,AKWA IBOM,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2420547.0,2420547.0,0.0,same
+410,Q3 2025,Internet,ANAMBRA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,4278594.0,4278594.0,0.0,same
+411,Q3 2025,Internet,BAUCHI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3204499.0,3204499.0,0.0,same
+412,Q3 2025,Internet,BAYELSA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,973106.0,973106.0,0.0,same
+413,Q3 2025,Internet,BENUE,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2829438.0,2829438.0,0.0,same
+414,Q3 2025,Internet,BORNO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2726050.0,2726050.0,0.0,same
+415,Q3 2025,Internet,CROSS RIVER,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1957982.0,1957982.0,0.0,same
+416,Q3 2025,Internet,DELTA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,5363591.0,5363591.0,0.0,same
+417,Q3 2025,Internet,EBONYI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1284536.0,1284536.0,0.0,same
+418,Q3 2025,Internet,EDO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,4684974.0,4684974.0,0.0,same
+419,Q3 2025,Internet,EKITI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1407122.0,1407122.0,0.0,same
+420,Q3 2025,Internet,ENUGU,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2982632.0,2982632.0,0.0,same
+421,Q3 2025,Internet,FCT,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,6211022.0,6211022.0,0.0,same
+422,Q3 2025,Internet,GOMBE,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1770104.0,1770104.0,0.0,same
+423,Q3 2025,Internet,IMO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3235953.0,3235953.0,0.0,same
+424,Q3 2025,Internet,JIGAWA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2221813.0,2221813.0,0.0,same
+425,Q3 2025,Internet,KADUNA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,6091140.0,6091140.0,0.0,same
+426,Q3 2025,Internet,KANO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,8654352.0,8654352.0,0.0,same
+427,Q3 2025,Internet,KATSINA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3675669.0,3675669.0,0.0,same
+428,Q3 2025,Internet,KEBBI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1933121.0,1933121.0,0.0,same
+429,Q3 2025,Internet,KOGI,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2267774.0,2267774.0,0.0,same
+430,Q3 2025,Internet,KWARA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2995713.0,2995713.0,0.0,same
+431,Q3 2025,Internet,LAGOS,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,17703609.0,17703609.0,0.0,same
+432,Q3 2025,Internet,NASARAWA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2825392.0,2825392.0,0.0,same
+433,Q3 2025,Internet,NIGER,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3837252.0,3837252.0,0.0,same
+434,Q3 2025,Internet,OGUN,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,8504611.0,8504611.0,0.0,same
+435,Q3 2025,Internet,ONDO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3011969.0,3011969.0,0.0,same
+436,Q3 2025,Internet,OSUN,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,3243785.0,3243785.0,0.0,same
+437,Q3 2025,Internet,OYO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,6303360.0,6303360.0,0.0,same
+438,Q3 2025,Internet,PLATEAU,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2758854.0,2758854.0,0.0,same
+439,Q3 2025,Internet,RIVERS,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,5113811.0,5113811.0,0.0,same
+440,Q3 2025,Internet,SOKOTO,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2163464.0,2163464.0,0.0,same
+441,Q3 2025,Internet,TARABA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2139598.0,2139598.0,0.0,same
+442,Q3 2025,Internet,YOBE,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,2025815.0,2025815.0,0.0,same
+443,Q3 2025,Internet,ZAMFARA,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,1578030.0,1578030.0,0.0,same
