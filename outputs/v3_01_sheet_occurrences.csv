@@ -1,0 +1,87 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: v3_01_sheet_occurrences.csv>
+index,workbook,release_quarter,release_key,sheet,quarter,quarter_key,service_type
+0,Telecoms_Q2 2024.xlsx,Q2 2024,20242,Q2 2024 Voice,Q2 2024,20242,Voice
+1,Telecoms_Q2 2024.xlsx,Q2 2024,20242,Q2 2024 Internet,Q2 2024,20242,Internet
+2,Telecoms_Q2 2024.xlsx,Q2 2024,20242,Q2 2024 Porting,Q2 2024,20242,Porting
+3,Telecoms_Q3_2024.xlsx,Q3 2024,20243,Q2 2024 Voice,Q2 2024,20242,Voice
+4,Telecoms_Q3_2024.xlsx,Q3 2024,20243,Q2 2024 Internet,Q2 2024,20242,Internet
+5,Telecoms_Q3_2024.xlsx,Q3 2024,20243,Q2 2024 Porting,Q2 2024,20242,Porting
+6,Telecoms_Q3_2024.xlsx,Q3 2024,20243,Q3 2024 Voice,Q3 2024,20243,Voice
+7,Telecoms_Q3_2024.xlsx,Q3 2024,20243,Q3 2024 Internet,Q3 2024,20243,Internet
+8,Telecoms_Q3_2024.xlsx,Q3 2024,20243,Q3 2024 Porting,Q3 2024,20243,Porting
+9,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q2 2024 Voice,Q2 2024,20242,Voice
+10,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q2 2024 Internet,Q2 2024,20242,Internet
+11,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q2 2024 Porting,Q2 2024,20242,Porting
+12,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q3 2024 Voice,Q3 2024,20243,Voice
+13,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q3 2024 Internet,Q3 2024,20243,Internet
+14,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q3 2024 Porting,Q3 2024,20243,Porting
+15,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q4 2024 Voice,Q4 2024,20244,Voice
+16,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q4 2024 Internet,Q4 2024,20244,Internet
+17,Telecoms_Q4 2024.xlsx,Q4 2024,20244,Q4 2024 Porting,Q4 2024,20244,Porting
+18,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q2 2024 Voice,Q2 2024,20242,Voice
+19,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q2 2024 Internet,Q2 2024,20242,Internet
+20,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q2 2024 Porting,Q2 2024,20242,Porting
+21,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q3 2024 Voice,Q3 2024,20243,Voice
+22,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q3 2024 Internet,Q3 2024,20243,Internet
+23,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q3 2024 Porting,Q3 2024,20243,Porting
+24,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q4 2024 Voice,Q4 2024,20244,Voice
+25,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q4 2024 Internet,Q4 2024,20244,Internet
+26,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q4 2024 Porting,Q4 2024,20244,Porting
+27,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q1 2025 Voice,Q1 2025,20251,Voice
+28,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q1 2025 Internet,Q1 2025,20251,Internet
+29,Telecoms Q1_2025.xlsx,Q1 2025,20251,Q1 2025 Porting,Q1 2025,20251,Porting
+30,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q2 2024 Voice,Q2 2024,20242,Voice
+31,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q2 2024 Internet,Q2 2024,20242,Internet
+32,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q2 2024 Porting,Q2 2024,20242,Porting
+33,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q3 2024 Voice,Q3 2024,20243,Voice
+34,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q3 2024 Internet,Q3 2024,20243,Internet
+35,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q3 2024 Porting,Q3 2024,20243,Porting
+36,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q4 2024 Voice,Q4 2024,20244,Voice
+37,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q4 2024 Internet,Q4 2024,20244,Internet
+38,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q4 2024 Porting,Q4 2024,20244,Porting
+39,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q1 2025 Voice,Q1 2025,20251,Voice
+40,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q1 2025 Internet,Q1 2025,20251,Internet
+41,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q1 2025 Porting,Q1 2025,20251,Porting
+42,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q2 2025 Voice,Q2 2025,20252,Voice
+43,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q2 2025 Internet,Q2 2025,20252,Internet
+44,Telecoms_Q2_2025 (2).xlsx,Q2 2025,20252,Q2 2025 Porting,Q2 2025,20252,Porting
+45,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q2 2024 Voice,Q2 2024,20242,Voice
+46,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q2 2024 Internet,Q2 2024,20242,Internet
+47,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q2 2024 Porting,Q2 2024,20242,Porting
+48,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q3 2024 Voice,Q3 2024,20243,Voice
+49,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q3 2024 Internet,Q3 2024,20243,Internet
+50,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q3 2024 Porting,Q3 2024,20243,Porting
+51,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q4 2024 Voice,Q4 2024,20244,Voice
+52,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q4 2024 Internet,Q4 2024,20244,Internet
+53,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q4 2024 Porting,Q4 2024,20244,Porting
+54,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q1 2025 Voice,Q1 2025,20251,Voice
+55,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q1 2025 Internet,Q1 2025,20251,Internet
+56,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q1 2025 Porting,Q1 2025,20251,Porting
+57,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q2 2025 Voice,Q2 2025,20252,Voice
+58,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q2 2025 Internet,Q2 2025,20252,Internet
+59,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q2 2025 Porting,Q2 2025,20252,Porting
+60,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q3 2025 VOICE,Q3 2025,20253,Voice
+61,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q3 2025 INTERNET,Q3 2025,20253,Internet
+62,Telecoms_Q3_2025.xlsx,Q3 2025,20253,Q3 2025 Porting,Q3 2025,20253,Porting
+63,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q2 2024 Voice,Q2 2024,20242,Voice
+64,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q2 2024 Internet,Q2 2024,20242,Internet
+65,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q2 2024 Porting,Q2 2024,20242,Porting
+66,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q3 2024 Voice,Q3 2024,20243,Voice
+67,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q3 2024 Internet,Q3 2024,20243,Internet
+68,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q3 2024 Porting,Q3 2024,20243,Porting
+69,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q4 2024 Voice,Q4 2024,20244,Voice
+70,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q4 2024 Internet,Q4 2024,20244,Internet
+71,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q4 2024 Porting,Q4 2024,20244,Porting
+72,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q1 2025 Voice,Q1 2025,20251,Voice
+73,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q1 2025 Internet,Q1 2025,20251,Internet
+74,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q1 2025 Porting,Q1 2025,20251,Porting
+75,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q2 2025 Voice,Q2 2025,20252,Voice
+76,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q2 2025 Internet,Q2 2025,20252,Internet
+77,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q2 2025 Porting,Q2 2025,20252,Porting
+78,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q3 2025 VOICE,Q3 2025,20253,Voice
+79,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q3 2025 INTERNET,Q3 2025,20253,Internet
+80,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q3 2025 Porting,Q3 2025,20253,Porting
+81,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q4 2025 VOICE,Q4 2025,20254,Voice
+82,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q4 2025 INTERNET,Q4 2025,20254,Internet
+83,Telecoms_Q4_2025.xlsx,Q4 2025,20254,Q4 2025 Porting,Q4 2025,20254,Porting
