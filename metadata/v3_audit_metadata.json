@@ -1,0 +1,22 @@
+{
+  "version": "3.0",
+  "workbooks": 7,
+  "discovered_xlsx_files": 7,
+  "skipped_workbooks": [],
+  "quarter_range": "Q2 2024 to Q4 2025",
+  "key_corrections": [
+    "Filename quarter parsing now accepts an underscore immediately before Q (for example Telecoms_Q3_2024.xlsx), preventing silent exclusion of six workbooks.",
+    "The audit stops if the expected seven-workbook corpus is not parsed completely.",
+    "Traceability denominator is derived from the actual number of canonical sheets rather than hard-coded.",
+    "NASSARAWA is normalised to NASARAWA for completeness and zone aggregation, while retained as a label-quality issue.",
+    "Voice subtotal/operator rows are detected dynamically rather than from hard-coded row numbers.",
+    "Porting operator, total and zone tables are detected dynamically.",
+    "Accuracy metrics are reported separately rather than averaged into a single composite percentage.",
+    "Workbook-embedded source metadata is distinguished from external catalogue provenance."
+  ],
+  "tolerances": {
+    "count": 0.5,
+    "percentage_points": 0.01,
+    "zone": 0.5
+  }
+}
