@@ -1,0 +1,21 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: v3_08_formula_transparency_drift.csv>
+index,quarter,service_type,earliest_workbook,latest_workbook,earliest_formula_count,latest_formula_count,formula_count_change
+0,Q2 2024,Voice,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,130,12,-118
+1,Q2 2024,Internet,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,131,51,-80
+2,Q2 2024,Porting,Telecoms_Q2 2024.xlsx,Telecoms_Q4_2025.xlsx,2,2,0
+3,Q3 2024,Voice,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,129,12,-117
+4,Q3 2024,Internet,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,131,11,-120
+5,Q3 2024,Porting,Telecoms_Q3_2024.xlsx,Telecoms_Q4_2025.xlsx,2,2,0
+6,Q4 2024,Voice,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,129,12,-117
+7,Q4 2024,Internet,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,131,11,-120
+8,Q4 2024,Porting,Telecoms_Q4 2024.xlsx,Telecoms_Q4_2025.xlsx,2,2,0
+9,Q1 2025,Voice,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,129,12,-117
+10,Q1 2025,Internet,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,131,11,-120
+11,Q1 2025,Porting,Telecoms Q1_2025.xlsx,Telecoms_Q4_2025.xlsx,2,2,0
+12,Q2 2025,Voice,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,130,12,-118
+13,Q2 2025,Internet,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,132,11,-121
+14,Q2 2025,Porting,Telecoms_Q2_2025 (2).xlsx,Telecoms_Q4_2025.xlsx,2,2,0
+15,Q3 2025,Voice,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,0,0,0
+16,Q3 2025,Internet,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,0,0,0
+17,Q3 2025,Porting,Telecoms_Q3_2025.xlsx,Telecoms_Q4_2025.xlsx,0,0,0
