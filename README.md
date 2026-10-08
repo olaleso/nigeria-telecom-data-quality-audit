@@ -4,8 +4,8 @@ Reproducibility package for the study:
 
 **Auditing Public Telecommunications Data Quality in Nigeria: A Reproducible ISO/IEC 25012 Assessment and DAMA-DMBOK-Informed Governance Framework**
 
-**Author:** Sowunmi Ibrahim Olaleye  
-**Affiliation:** Department of Computer Science, Caleb University, Nigeria  
+**Authors:** Sowunmi Ibrahim Olaleye; Yusuff Babatunde Olujobi  
+**Affiliation:** Department of Computer Science, Caleb University, Lagos, Nigeria  
 **Target journal:** *Data* (MDPI)
 
 ## Overview
