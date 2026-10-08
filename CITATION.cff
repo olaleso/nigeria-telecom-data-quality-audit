@@ -5,6 +5,10 @@ type: software
 authors:
   - family-names: "Sowunmi"
     given-names: "Ibrahim Olaleye"
+    affiliation: "Department of Computer Science, Caleb University, Lagos, Nigeria"
+  - family-names: "Olujobi"
+    given-names: "Yusuff Babatunde"
+    affiliation: "Department of Computer Science, Caleb University, Lagos, Nigeria"
 repository-code: "https://github.com/olaleso/nigeria-telecom-data-quality-audit"
 url: "https://github.com/olaleso/nigeria-telecom-data-quality-audit"
 license: MIT
