@@ -9,8 +9,11 @@ authors:
   - family-names: "Olujobi"
     given-names: "Yusuff Babatunde"
     affiliation: "Department of Computer Science, Caleb University, Lagos, Nigeria"
+  - family-names: "Akanni"
+    given-names: "Adeniyi"
 repository-code: "https://github.com/olaleso/nigeria-telecom-data-quality-audit"
 url: "https://github.com/olaleso/nigeria-telecom-data-quality-audit"
+doi: "10.5281/zenodo.23305202"
 license: MIT
 version: "1.0.0"
 date-released: "2026-10-11"
