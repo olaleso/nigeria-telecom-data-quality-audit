@@ -1,6 +1,6 @@
 {
   "title": "Nigeria Telecom Data Quality Audit: Reproducible ISO/IEC 25012 Assessment and TR-DQGF",
-  "description": "Reproducibility package for a standards-based audit of Nigerian public telecommunications workbooks covering Q2 2024 to Q4 2025. The package contains the final V3 Python audit script, methodological metadata and machine-readable derived audit outputs, and accompanies a manuscript proposing the Telecom Regulatory Data Quality Governance Framework (TR-DQGF).",
+  "description": "Version 1.0.0 reproducibility package for a standards-based audit of Nigerian public telecommunications workbooks covering Q2 2024 to Q4 2025. The package contains the final V3 Python audit script, methodological metadata, machine-readable derived audit outputs, and documentation accompanying the manuscript 'Auditing Public Telecommunications Data Quality in Nigeria: A Reproducible ISO/IEC 25012 Assessment and DAMA-DMBOK-Informed Governance Framework'. The study proposes the Telecom Regulatory Data Quality Governance Framework (TR-DQGF).",
   "creators": [
     {
       "name": "Sowunmi, Ibrahim Olaleye",
@@ -17,10 +17,13 @@
     "telecommunications",
     "ISO/IEC 25012",
     "DAMA-DMBOK",
+    "TR-DQGF",
     "Nigeria",
     "reproducibility"
   ],
   "license": "MIT",
   "upload_type": "software",
-  "access_right": "open"
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng"
 }
