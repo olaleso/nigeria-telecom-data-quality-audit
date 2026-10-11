@@ -4,6 +4,12 @@ This release contains the reproducibility package accompanying the manuscript:
 
 **Auditing Public Telecommunications Data Quality in Nigeria: A Reproducible ISO/IEC 25012 Assessment and DAMA-DMBOK-Informed Governance Framework**
 
+## Authors
+
+- Sowunmi Ibrahim Olaleye
+- Yusuff Babatunde Olujobi
+- Adeniyi Akanni
+
 ## Included
 
 - Final V3 Python audit script
@@ -30,4 +36,4 @@ The release supports the analysis of seven National Bureau of Statistics telecom
 
 ## Archival note
 
-This GitHub release is intended for preservation in Zenodo. The Zenodo DOI minted from this release should be cited in the manuscript's Data Availability and Code Availability statements.
+This release is archived in Zenodo at **https://doi.org/10.5281/zenodo.23305202**. The DOI should be cited in the manuscript's Data Availability and Code Availability statements.
