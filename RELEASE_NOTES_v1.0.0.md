@@ -6,9 +6,9 @@ This release contains the reproducibility package accompanying the manuscript:
 
 ## Authors
 
-- Sowunmi Ibrahim Olaleye
-- Yusuff Babatunde Olujobi
-- Adeniyi Akanni
+- Sowunmi Ibrahim Olaleye — Department of Computer Science, Caleb University, Lagos, Nigeria
+- Yusuff Babatunde Olujobi — Department of Computer Science, Caleb University, Lagos, Nigeria
+- Adeniyi Akanni — Anchor University Lagos, Nigeria
 
 ## Included
 
