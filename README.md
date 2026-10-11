@@ -4,7 +4,7 @@ Reproducibility package for the study:
 
 **Auditing Public Telecommunications Data Quality in Nigeria: A Reproducible ISO/IEC 25012 Assessment and DAMA-DMBOK-Informed Governance Framework**
 
-**Authors:** Sowunmi Ibrahim Olaleye; Yusuff Babatunde Olujobi  
+**Authors:** Sowunmi Ibrahim Olaleye; Yusuff Babatunde Olujobi; Adeniyi Akanni  
 **Affiliation:** Department of Computer Science, Caleb University, Lagos, Nigeria  
 **Target journal:** *Data* (MDPI)
 
@@ -139,19 +139,17 @@ The final machine-readable CSV outputs are included in `outputs/` and have been 
 - Data-quality measures are reported separately rather than collapsed into a composite score.
 - Historical workbook copies are retained for version-stability and formula-transparency analysis.
 
-## Zenodo archival workflow
+## Zenodo archive
 
-This GitHub repository is intended to be archived through Zenodo after the final manuscript reproducibility package has been completed.
+Version **v1.0.0** has been archived in Zenodo and assigned the persistent DOI **10.5281/zenodo.23305202**.
 
-1. Add the final V3 machine-readable outputs to `outputs/`.
-2. Create a GitHub release, recommended tag: **v1.0.0**.
-3. Archive that release in Zenodo.
-4. Mint the Zenodo DOI.
-5. Insert the DOI into the manuscript's Data Availability and Code Availability statements.
+Archived record: https://doi.org/10.5281/zenodo.23305202
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. The Zenodo DOI should be added after it has been minted.
+Citation metadata are provided in `CITATION.cff`.
+
+Persistent Zenodo DOI: **10.5281/zenodo.23305202**
 
 ## Licence
 
