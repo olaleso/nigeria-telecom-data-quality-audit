@@ -127,7 +127,7 @@ The V3 script generates:
 12. `v3_12_dimension_summary.csv`
 13. `v3_audit_metadata.json`
 
-The final machine-readable CSV outputs should be added to `outputs/` before the archival Zenodo release is published.
+The final machine-readable CSV outputs are included in `outputs/` and have been verified as present in the archival package.
 
 ## Methodological safeguards
 
