@@ -13,13 +13,14 @@ repository-code: "https://github.com/olaleso/nigeria-telecom-data-quality-audit"
 url: "https://github.com/olaleso/nigeria-telecom-data-quality-audit"
 license: MIT
 version: "1.0.0"
-date-released: "2026-10-07"
-abstract: "Reproducible Python audit of Nigerian public telecommunications workbooks using selected ISO/IEC 25012 data-quality characteristics and a DAMA-DMBOK-informed governance interpretation."
+date-released: "2026-10-11"
+abstract: "Reproducible Python audit of Nigerian public telecommunications workbooks using selected ISO/IEC 25012 data-quality characteristics and a DAMA-DMBOK-informed governance interpretation, accompanied by the Telecom Regulatory Data Quality Governance Framework (TR-DQGF)."
 keywords:
   - data quality
   - data governance
   - telecommunications
   - ISO/IEC 25012
   - DAMA-DMBOK
+  - TR-DQGF
   - reproducibility
   - Nigeria
